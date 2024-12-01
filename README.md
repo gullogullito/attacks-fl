@@ -1,2 +1,2 @@
 # attacks-fl
- Implementing several privacy attacks on FL scenario
+ Implementing several privacy attacks on a FL scenario
